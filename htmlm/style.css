@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+*{
+    margin: 0 auto; 
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'DM sans';
+}
+.box{
+    max-width: 1440px;
+}
+.lav .s{
+    color: rgb(7, 99, 7);
+}
+.lav{
+    color: #000;
+}
+.top{
+    background-color: #DCE9E2;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+}
+.as a{
+    color: #000;
+}
+.b{
+    color: #00856F;
+    border: #00856F solid 2px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    background-color: #DCE9E2;
+}
+.a{
+    border-bottom: 2px solid #00856F;
+}
+.qism{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.p{
+    color: #00856F;
+}
+p{
+    color: #808080;
+}
+.bu{
+    background-color: #00856F;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: none;
+}
+.q{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: rgb(199, 189, 189) 1px solid;
+    margin-left: 150px;
+    height: 210px;
+    width: 1120px;
+}
+.card{
+    border-right: rgb(199, 189, 189) 1px solid;
+    padding-right: 75px;
+}
+.pa{
+    text-align: center;
+    color: #00856F;
+    margin-top: 50px;
+    margin-bottom: 75px;
+}
+.car{
+    width: 347px;
+    height: 207px;
+    border: rgb(226, 224, 224) 0.1px solid;
+    text-align: center;
+}
+.r{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    padding: auto;
+}
+.r1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+    padding: auto;
+}
+.re{
+    margin-right: 300px;
+}
+.blog1{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.blog1 .text{
+    width: 573px;
+}
+.blog2{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.lavh{
+    color: #fff;
+}
+.footer{
+    background-color: #00856F;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+}
